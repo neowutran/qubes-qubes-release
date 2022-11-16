@@ -1,7 +1,7 @@
 %define dist_version @VERSION@
 %define full_version @VERSION@.1
 %define release_name R%{dist_version}
-%define fedora_base_version 32
+%define fedora_base_version 37
 
 Summary:	Qubes release files
 Name:		qubes-release
